@@ -1,0 +1,138 @@
+export const mockVehicles = [
+  {
+    id: '1',
+    brand: 'Ford',
+    model: 'Ranger',
+    version: 'Raptor',
+    year: 2024,
+    category: 'Picape',
+    price: 490000,
+
+    features: [
+      'Motor V6 3.0 Biturbo',
+      'Tração 4x4',
+      'Suspensão FOX',
+      'Painel digital',
+      'Modo off-road',
+    ],
+  },
+
+  {
+    id: '2',
+    brand: 'Ford',
+    model: 'Maverick',
+    version: 'Lariat FX4',
+    year: 2024,
+    category: 'Picape',
+    price: 239000,
+    features: [
+      'Motor 2.0 Turbo',
+      'Tração AWD',
+      'Central SYNC',
+      'Piloto automático',
+      'Carregador wireless',
+    ],
+  },
+
+  {
+    id: '3',
+    brand: 'Ford',
+    model: 'Territory',
+    version: 'Titanium',
+    year: 2024,
+    category: 'SUV',
+    price: 215000,
+    features: [
+      'ADAS',
+      'Painel digital',
+      'Banco elétrico',
+      'Câmera 360',
+      'Teto panorâmico',
+    ],
+  },
+
+  {
+    id: '4',
+    brand: 'Ford',
+    model: 'Bronco',
+    version: 'Wildtrak',
+    year: 2024,
+    category: 'SUV',
+    price: 260000,
+    features: [
+      'Tração 4x4',
+      'Motor Turbo',
+      'Assistente off-road',
+      'Controle de descida',
+      'Multimídia SYNC',
+    ],
+  },
+
+  {
+    id: '5',
+    brand: 'Ford',
+    model: 'Mustang',
+    version: 'GT Performance',
+    year: 2024,
+    category: 'Esportivo',
+    price: 529000,
+    features: [
+      'Motor V8',
+      'Painel digital',
+      'Escape esportivo',
+      'Launch control',
+      'Bancos premium',
+    ],
+  },
+
+  {
+    id: '6',
+    brand: 'Ford',
+    model: 'Transit',
+    version: 'Minibus',
+    year: 2024,
+    category: 'Van',
+    price: 310000,
+    features: [
+      '16 lugares',
+      'Controle de estabilidade',
+      'Assistente de faixa',
+      'Porta lateral elétrica',
+      'Ar-condicionado traseiro',
+    ],
+  },
+
+  {
+    id: '7',
+    brand: 'Ford',
+    model: 'F-150',
+    version: 'Lariat',
+    year: 2024,
+    category: 'Picape',
+    price: 520000,
+    features: [
+      'Motor V8',
+      'Tração 4x4',
+      'Interior premium',
+      'Reboque inteligente',
+      'Painel digital',
+    ],
+  },
+
+  {
+    id: '8',
+    brand: 'Ford',
+    model: 'Edge',
+    version: 'ST',
+    year: 2023,
+    category: 'SUV',
+    price: 300000,
+    features: [
+      'Motor V6',
+      'AWD',
+      'Bancos esportivos',
+      'Som premium',
+      'Assistente de permanência',
+    ],
+  },
+];

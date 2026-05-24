@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Challenge Ford - Software Mavericks",
+    "slug": "challenge-ford-Software Mavericks",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.fiap.challengeford"
+    },
+    "android": {
+      "package": "com.fiap.challengeford"
+    },
+    "scheme": "challengeford",
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}

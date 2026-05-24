@@ -1,0 +1,32 @@
+import { SpecField } from '../types/specs';
+
+export const SPEC_FIELDS: SpecField[] = [
+  { key: 'brand', label: 'Marca' },
+  { key: 'model', label: 'Modelo' },
+  { key: 'version', label: 'Versão' },
+  { key: 'engine', label: 'Motorização' },
+  { key: 'power', label: 'Potência' },
+  { key: 'torque', label: 'Torque' },
+  { key: 'transmission', label: 'Transmissão' },
+  { key: 'traction', label: 'Tração' },
+  { key: 'fuel', label: 'Combustível' },
+  { key: 'consumption', label: 'Consumo' },
+  { key: 'acceleration_0_100', label: '0–100 km/h' },
+  { key: 'top_speed', label: 'Velocidade máxima' },
+  { key: 'length', label: 'Comprimento' },
+  { key: 'width', label: 'Largura' },
+  { key: 'height', label: 'Altura' },
+  { key: 'wheelbase', label: 'Entre-eixos' },
+  { key: 'weight', label: 'Peso' },
+  { key: 'tank_capacity', label: 'Tanque' },
+  { key: 'trunk_capacity', label: 'Porta-malas' },
+  { key: 'seats', label: 'Lugares' },
+  { key: 'ground_clearance', label: 'Vão livre do solo' },
+  { key: 'approach_angle', label: 'Ângulo de entrada' },
+  { key: 'departure_angle', label: 'Ângulo de saída' },
+  { key: 'wading_depth', label: 'Capacidade de imersão' },
+  { key: 'towing_capacity', label: 'Capacidade de reboque' },
+  { key: 'payload_capacity', label: 'Capacidade de carga' },
+  { key: 'notes', label: 'Observações' },
+];
+
