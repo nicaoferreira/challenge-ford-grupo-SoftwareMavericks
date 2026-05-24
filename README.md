@@ -122,9 +122,9 @@ O sistema possui simulação de IA para:
 
 Equipe Software Mavericks
 
-Luiz Felipe Motta da Silva - RM 559126
-Nicolas Lorenzo Ferreira da Silva - RM 557962
-Pedro Henrique Faim dos Santos - RM 557440
+- Luiz Felipe Motta da Silva - RM 559126
+- Nicolas Lorenzo Ferreira da Silva - RM 557962
+- Pedro Henrique Faim dos Santos - RM 557440
 
 FIAP - Engenharia de Software
 
