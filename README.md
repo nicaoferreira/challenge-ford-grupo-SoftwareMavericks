@@ -13,6 +13,7 @@ O sistema simula uma plataforma inteligente de análise automotiva, permitindo c
   - Marca
   - Modelo
   - Versão
+
 - Exibição de:
   - Ano
   - Categoria
@@ -77,29 +78,47 @@ components/
 data/
 services/
 types/
-▶️ Como Executar
-Instalar dependências
+```
+
+---
+
+# ▶️ Como Executar
+
+## Instalar dependências
+
+```bash
 npm install
-Iniciar projeto
+```
+
+## Iniciar projeto
+
+```bash
 npx expo start
-💾 Persistência de Dados
+```
+
+---
+
+# 💾 Persistência de Dados
 
 Os dados de:
-
-favoritos
-histórico
+- favoritos
+- histórico
 
 são armazenados localmente utilizando AsyncStorage.
 
-🧠 Inteligência Artificial
+---
+
+# 🧠 Inteligência Artificial
 
 O sistema possui simulação de IA para:
+- retenção de clientes
+- análise preventiva
+- comportamento de pós-venda
+- monitoramento inteligente de interesse em veículos
 
-retenção de clientes
-análise preventiva
-comportamento de pós-venda
-monitoramento inteligente de interesse em veículos
-👨‍💻 Desenvolvido por
+---
+
+# 👨‍💻 Desenvolvido por
 
 Equipe Software Mavericks
 
@@ -109,6 +128,8 @@ Pedro Henrique Faim dos Santos - RM 557440
 
 FIAP - Engenharia de Software
 
-📌 Challenge Ford FIAP
+---
+
+# 📌 Challenge Ford FIAP
 
 Projeto acadêmico desenvolvido para o Challenge Ford utilizando React Native e conceitos de experiência do usuário, persistência local e análise inteligente de dados automotivos.
